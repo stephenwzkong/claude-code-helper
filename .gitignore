@@ -1,5 +1,6 @@
 # Swift / SwiftPM build artifacts
 AskAside/.build/
+AskAside/.build-*/
 AskAside/.swiftpm/
 *.o
 *.swiftmodule
