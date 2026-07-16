@@ -1,0 +1,15 @@
+# Swift / SwiftPM build artifacts
+AskAside/.build/
+AskAside/.swiftpm/
+*.o
+*.swiftmodule
+
+# Built app bundle (produced by build.sh)
+AskAside/AskAside.app/
+
+# Signing material (never commit private keys)
+*.p12
+*.pem
+
+# macOS
+.DS_Store
